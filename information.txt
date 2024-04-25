@@ -1,2 +1,4 @@
 Name: Suphachai
+Nickname: Ohmmy
 Address: Odds
+phone: 0987493528
